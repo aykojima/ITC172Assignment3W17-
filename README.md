@@ -1,2 +1,2 @@
-# ITC172Assignment3W17-
-Classic ADO
+# ITC172Assignment3-2017-
+First example from ADO assignment
